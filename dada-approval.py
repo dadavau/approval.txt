@@ -56,9 +56,9 @@ ____/\\\\\\\\\______________________________________________________/\\\\\\____
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Raisul islam\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :6\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr-Qureshi \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/Mr-Qureshi-xd \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : www.facebook./MrQureshi-xd \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : RAISUL ISLAM \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/dadavau \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : https://www.facebook.com/abal.not.allow.dada.is.back.R \x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
  """)
 
