@@ -83,11 +83,11 @@ def notice():
  
 
 	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
-	os.system("xdg-open https://www.facebook.com/OPRStatusKing/")
+	os.system("xdg-open https://www.facebook.com/groups/raisul.islam.paid.commands/?ref=share_group_link")
 	runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m Key group admin ke post pe coment krein")
-	os.system("xdg-open https://www.facebook.com/OPRStatusKing/")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/OPRStatusKing/"])
+	os.system("xdg-open https://www.facebook.com/groups/raisul.islam.paid.commands/?ref=share_group_link")
+	subprocess.check_output(["am", "start", "https://www.facebook.com/groups/raisul.islam.paid.commands/?ref=share_group_link"])
 	
 
 
@@ -153,8 +153,8 @@ ____/\\\\\\\\\______________________________________________________/\\\\\\____
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("───────────────────────────────────────────────────────× ")
-		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m FOLLOW MY CHANEL FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
-		subprocess.check_output(["am", "start", "https://www.facebook.com/OPRStatusKing//UCOo-omO_OVoU0B1109O0Z8g"])
+		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m JOIN MY FB GROUP FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
+		subprocess.check_output(["am", "start", "https://www.facebook.com/groups/raisul.islam.paid.commands/?ref=share_group_link/UCOo-omO_OVoU0B1109O0Z8g"])
 		print("───────────────────────────────────────────────────────× ")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free Trail)"%(G,R,G,Y,B))
 		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ")
@@ -401,8 +401,8 @@ if len(sys.argv) == 2:
 	if sys.argv[1] == "--info":
 		print("")
 		print("\n [*] Author    : Raisul Islam")
-		print(" [*] Team      : 💔\n")
-		print(" [ Sosial Medi  ] 💔\n")
+		print(" [*] Team      : DADA-VAU-COMMAND'S\n")
+		print(" [*]GROUP ]   : TERMUX PAID COMMAND'S\n")
 		print(" [*] Facebook  : https://www.facebook.com/abal.not.allow.dada.is.back.R/ ")
 		print(" [*] Instagram : Raisul Islam/ ")
 		print(" [*] YouTube   : OPR STATUS KING/ ")
